@@ -43,10 +43,10 @@
   return NO;
 }
 
-- (BOOL)_canBecomeKeyWindow
-{
-  return NO;
-}
+//- (BOOL)_canBecomeKeyWindow
+//{
+//  return NO;
+//}
 
 #endif // _INTERNAL_IMP_ENABLED
 
